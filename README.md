@@ -1,0 +1,2 @@
+# pyCalisma
+PY eğitim egzersizleri
